@@ -1,0 +1,9 @@
+[Core]
+Name = CardsTests
+Module = cards
+
+[Documentation]
+Description = testing cards and cards templates
+
+[Python]
+Version = 3
